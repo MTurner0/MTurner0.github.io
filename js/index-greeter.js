@@ -1,2 +1,2 @@
 /* Having a look around, are we? */
-console.log("Ceci n'est pas une 'bonjour au monde.'")
+console.log("Ceci n'est pas une 'salut du monde.'")
