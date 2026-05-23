@@ -1,3 +1,6 @@
+baseURL = "https://MTurner0.github.io/"
+title = "Margaret Turner"
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
